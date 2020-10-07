@@ -46,7 +46,6 @@ Download the files from MAVSDK-Proto  and copy to `proto/protos` folder
 https://github.com/mavlink/MAVSDK-Proto/tree/master/protos
 
 ```
-$ curl 
 $ ./generator.sh
 ```
 
